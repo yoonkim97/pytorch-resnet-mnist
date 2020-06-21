@@ -1,2 +1,3 @@
 # ResNet for MNIST in PyTorch
-For detailed description/tutorial, go to: https://zablo.net/blog/post/using-resnet-for-mnist-in-pytorch-tutorial
+This is an implementation of a ResNet on MNIST, Temperature Scaling, and a basic anomaly detection algorithm. 
+Please follow the Colab notebook. 
